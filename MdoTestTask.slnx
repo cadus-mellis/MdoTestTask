@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="desktop_app.png" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="SqlVersionService.Application/SqlVersionService.Application.csproj" Id="c0aea5c3-e4d1-429e-860f-a1cc07b74a75" />
+    <Project Path="SqlVersionService.Contracts/SqlVersionService.Contracts.csproj" Id="686cad9f-165e-431c-991f-325d0bb3ab84" />
+    <Project Path="SqlVersionService.Desktop/SqlVersionService.Desktop.csproj" Id="c4c3d08e-6092-4287-accc-575a68477b35" />
+    <Project Path="SqlVersionService.Infrastructure/SqlVersionService.Infrastructure.csproj" Id="d41e8a36-8fde-4164-ae86-43dc05c8c5ac" />
+    <Project Path="SqlVersionService.Web/SqlVersionService.Web.csproj" Id="b3f806ea-0bce-4685-9be1-7dc667c0bced" />
+  </Folder>
+</Solution>
